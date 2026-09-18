@@ -1,0 +1,6 @@
+{
+  "name": "Marathon Runner",
+  "description": "An interactive marathon racing game to learn the English word 'marathon' and the sentence 'Marathon is a long running race.'",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
